@@ -1,5 +1,5 @@
 <h1>Hello, I'm Will</h1>
-<h3>College Student | Computer Science Major | Frosh CSH</h3>
+<h3>College Student | Computer Science Major | Active CSH Member</h3>
 
 ## About Me
 - Currently pursuing a Bachelors's degree in Computer Science at Rochester Institute of Technology.
@@ -7,11 +7,10 @@
 
 ## What I'm Up To
 - Relfecting on old projects that could be updated.
-- Currently trying to find a major project.
-- Learning more about C++.
+- Learning more about C.
 
 ## Tech Stack
-- <b>Languages:</b> Python, Java, C++
+- <b>Languages:</b> Python, Java, C, C++
 - <b>Tools:</b> Git, Visual Studio Code
 
 ## Goals
