@@ -7,7 +7,7 @@
 
 ## What I'm Up To
 - Relfecting on old projects that could be updated.
-- Learning more about C.
+- Learning more about SQL & S3.
 
 ## Tech Stack
 - <b>Languages:</b> Python, Java, C, C++
