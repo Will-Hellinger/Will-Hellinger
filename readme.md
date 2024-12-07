@@ -1,17 +1,23 @@
 <h1>Hello, I'm Will</h1>
-<h3>College Student | Computer Science Major | Active CSH Member</h3>
+<h2 align="center">2nd Year College Student | Computer Science Major | Active CSH Member</h2>
 
 ## About Me
-- Currently pursuing a Bachelors's degree in Computer Science at Rochester Institute of Technology.
-- Always excited to learn and explore emerging trends in technology.
+- Pursuing a Bachelor's degree in Computer Science at Rochester Institute of Technology.
+- Passionate about learning and exploring emerging trends in technology.
 
 ## What I'm Up To
-- Relfecting on old projects that could be updated.
-- Learning more about SQL & S3.
+- Reflecting on old projects for potential updates.
+- Diving deeper into Rust.
 
 ## Tech Stack
-- <b>Languages:</b> Python, Java, C, C++
-- <b>Tools:</b> Git, Visual Studio Code
+- **Languages:** Python, Java, C, C++
+- **Tools:** Git, Visual Studio Code
 
 ## Goals
-- HACK THE PLANET
+- [HACK THE PLANET](https://www.youtube.com/watch?v=drJWxMLrpE0)
+
+<p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Will-Hellinger&theme=transparent&hide_border=true" alt="GitHub Streak">
+    </a>
+</p>
