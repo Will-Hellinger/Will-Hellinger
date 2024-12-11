@@ -20,4 +20,7 @@
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=Will-Hellinger&theme=transparent&hide_border=true" alt="GitHub Streak">
     </a>
+    <a href="https://u8views.com/github/Will-Hellinger">
+        <img src="https://u8views.com/api/v1/github/profiles/111201130/views/day-week-month-total-count.svg" alt="Will Hellinger profile views">
+    </a>
 </p>
